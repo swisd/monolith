@@ -1,0 +1,13 @@
+C:\RS\monolith\engine_tester\target\debug\deps\half-e84e743bf06c733c.d: C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\lib.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\bfloat.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\bfloat\convert.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\binary16.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\binary16\arch.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\binary16\arch\x86.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\leading_zeros.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\slice.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\vec.rs
+
+C:\RS\monolith\engine_tester\target\debug\deps\libhalf-e84e743bf06c733c.rmeta: C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\lib.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\bfloat.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\bfloat\convert.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\binary16.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\binary16\arch.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\binary16\arch\x86.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\leading_zeros.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\slice.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\vec.rs
+
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\lib.rs:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\bfloat.rs:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\bfloat\convert.rs:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\binary16.rs:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\binary16\arch.rs:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\binary16\arch\x86.rs:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\leading_zeros.rs:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\slice.rs:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.6.0\src\vec.rs:

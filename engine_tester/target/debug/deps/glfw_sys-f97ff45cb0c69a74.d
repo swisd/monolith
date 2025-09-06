@@ -1,0 +1,11 @@
+C:\RS\monolith\engine_tester\target\debug\deps\glfw_sys-f97ff45cb0c69a74.d: C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\lib.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\sys\manual.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\sys\pregenerated.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\../README.md C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\../glfw/include/GLFW/glfw3.h
+
+C:\RS\monolith\engine_tester\target\debug\deps\libglfw_sys-f97ff45cb0c69a74.rlib: C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\lib.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\sys\manual.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\sys\pregenerated.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\../README.md C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\../glfw/include/GLFW/glfw3.h
+
+C:\RS\monolith\engine_tester\target\debug\deps\libglfw_sys-f97ff45cb0c69a74.rmeta: C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\lib.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\sys\manual.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\sys\pregenerated.rs C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\../README.md C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\../glfw/include/GLFW/glfw3.h
+
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\lib.rs:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\sys\manual.rs:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\sys\pregenerated.rs:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\../README.md:
+C:\Users\gavin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glfw-sys-6.0.0\src\../glfw/include/GLFW/glfw3.h:

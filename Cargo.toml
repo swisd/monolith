@@ -1,0 +1,12 @@
+[package]
+name = "monolith"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+cgmath = "0.18.0"
+env_logger = "0.11.8"
+gl = "0.14.0"
+glfw = "0.60.0"
+log = "0.4.28"
+thiserror = "2.0.16"

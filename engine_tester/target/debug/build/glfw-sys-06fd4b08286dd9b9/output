@@ -1,0 +1,9 @@
+cargo:rerun-if-changed=build.rs
+downloaded impeller library from https://github.com/glfw/glfw/releases/download/3.4/glfw-3.4.bin.WIN64.zip and stored it in "C:\\RS\\monolith\\engine_tester\\target\\debug\\build\\glfw-sys-06fd4b08286dd9b9\\out"
+extracted glfw library from zip and stored it in "C:\\RS\\monolith\\engine_tester\\target\\debug\\build\\glfw-sys-06fd4b08286dd9b9\\out"
+cargo:rustc-link-search=native=C:\RS\monolith\engine_tester\target\debug\build\glfw-sys-06fd4b08286dd9b9\out\glfw-3.4.bin.WIN64\lib-vc2022
+cargo:rustc-link-lib=dylib=glfw3dll
+cargo:rustc-link-lib=gdi32
+cargo:rustc-link-lib=opengl32
+cargo:rustc-link-lib=user32
+cargo:rustc-link-lib=shell32
